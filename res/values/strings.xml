@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Control Robot</string>
+    <string name="bt_not_enabled_leaving">Bluetooth no ha sido activado. Cerrando aplicación</string>
+    <string name="title_paired_devices">Dispositivos emparejados</string>
+    <string name="none_paired">No hay dispositivos </string>
+    <string name="select_device">Selecciona un Dispositivo</string>
+    <string name="connect">Conectarse a dispositivo</string>
+    <string name="title_connected_to">Conectado: </string>
+    <string name="title_connecting">Conectando..</string>
+    <string name="title_not_connected">No Conectado</string>
+    <string name="x_value">Posición X</string>
+    <string name="y_value">Posición Y</string>
+    <string name="z_value">Posición Z</string>
+    <string name="not_supported">Vaya, su móvil no soporta reconocimiento por voz</string>
+    <string name="cmd1">Guardar Espiral</string>
+    <string name="cmd2">Reproducir Espiral</string>
+    <string name="cmd3">Guardar Repetibilidad</string>
+    <string name="cmd4">Reproducir Repetibilidad</string>
+    <string name="cmd5">Guardar Puntos</string>
+    <string name="cmd6">Reproducir Puntos</string>
+    <string name="cmd7">Guardar a..b..c (letras)</string>
+    <string name="cmd8">Reproducir a..b..c (letras)</string>
+</resources>
